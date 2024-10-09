@@ -4,3 +4,4 @@
 2. `npx playwright test`
 
 may need to add test directories and playwright configs to your solution explorer manually
+Shaye - Confirmed access to this repo
